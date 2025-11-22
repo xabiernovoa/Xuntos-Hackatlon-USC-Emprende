@@ -3,7 +3,9 @@
 **Aprender *Xuntos* es mejor**
 
 Plataforma de mentoría entre estudiantes que conecta alumnos novatos con estudiantes experimentados para facilitar la adaptación universitaria y mejorar el aprendizaje colaborativo.
-<img width="382" height="146" alt="XuntosUniversidad" src="https://github.com/user-attachments/assets/72bc7824-d044-4e7c-9101-1caad2801960" />
+<p align="center">
+  <img width="382" height="146" alt="XuntosUniversidad" src="https://github.com/user-attachments/assets/72bc7824-d044-4e7c-9101-1caad2801960" />
+</p>
 
 ## El Problema
 
@@ -61,8 +63,13 @@ Xuntos es una aplicación web que conecta estudiantes de diferentes niveles acad
 - Reconocimiento dentro de la comunidad estudiantil
 - Oportunidades de colaboración en proyectos
 
+## **Imagenes del proyecto**
+![perfil](https://github.com/user-attachments/assets/50289d2b-f345-4cd7-b33d-c922d70d21de)
+![chatprivado](https://github.com/user-attachments/assets/e308e89c-7ca2-4089-aebd-991f6f009277)
+![pelfil2](https://github.com/user-attachments/assets/ddfe7573-6fcd-4dc8-a5dc-8caf60b192f0)
 
-Proyecto desarrollado por estudiantes para estudiantes:
+
+**Proyecto desarrollado por estudiantes para estudiantes:**
 
 - Xabier Nóvoa Gómez
 - César Poza González

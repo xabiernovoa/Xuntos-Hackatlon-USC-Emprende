@@ -3,6 +3,7 @@
 **Aprender *Xuntos* es mejor**
 
 Plataforma de mentoría entre estudiantes que conecta alumnos novatos con estudiantes experimentados para facilitar la adaptación universitaria y mejorar el aprendizaje colaborativo.
+<img width="382" height="146" alt="XuntosUniversidad" src="https://github.com/user-attachments/assets/72bc7824-d044-4e7c-9101-1caad2801960" />
 
 ## El Problema
 
